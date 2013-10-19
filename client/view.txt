@@ -1,1 +1,4 @@
 defines the view of the Client
+
+needs simple Context menu
+will be used as base for other views
