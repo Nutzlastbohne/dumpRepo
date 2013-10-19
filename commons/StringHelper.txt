@@ -1,3 +1,5 @@
 stupidly small helper files
 
 those methods are so insanly small.. do we really need this stuff?
+
+removed unnecessary methods
